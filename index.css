@@ -21,7 +21,7 @@ body{
 .nav {
     display: flex;
     align-items: center;
-    margin-right: 10vh;                 /**/
+    margin-right: 10vh;             
     
 }
 
@@ -86,34 +86,34 @@ button{
 
 .flex-container {
     display: flex;
-    justify-content: space-between; /* To push items to opposite ends */
-    align-items: center; /* To vertically center items */
+    justify-content: space-between; 
+    align-items: center; 
     background-color: #f0e4bc;
 }
 
-/* Style for .taas class */
+
 .taas {
-    display: flex; /* Use flexbox for layout */
-    align-items: center; /* Align items vertically */
+    display: flex; 
+    align-items: center; 
     font-size: 16px;
     margin-left: 10px;
 }
 
 .taas p {
-    margin-left: 15vh; /* Add space between the paragraphs*/   
+    margin-left: 15vh;  
     letter-spacing: 2px;
 }
 
 
 .top {
-    display: flex; /* Use flexbox for layout */
-    align-items: center; /* Align items vertically */
+    display: flex; 
+    align-items: center; 
     margin-right: 30px;
     
 }
 
 .top p {
-    margin-right: 10px; /* Add space between the paragraphs */
+    margin-right: 10px; 
     letter-spacing: 1px;
 }
 
